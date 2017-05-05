@@ -28,12 +28,14 @@ import random
 
 states = list(state_capitals.keys())
 
-for i in [1, 2, 3, 4, 5]:
+while True:
      state = random.choice(states)
      capital = state_capitals[state]
      capital_guess = input("What is the capital of " + state + "? ")
 
-     if capital == capital_guess:
+     if capital_guess == "quit":
+          break
+     elif capital == capital_guess:
           print("Correct!")
      else:
           print("Incorrect. The capital of " + state + " is " + capital + ". ")
