@@ -1,0 +1,7 @@
+Kate, 98
+James, 76
+Vasyl, 99
+Hon, 67
+Frank, 89
+Rose, 49
+Jim, 54
