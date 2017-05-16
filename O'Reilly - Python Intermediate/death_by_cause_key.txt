@@ -1,0 +1,10 @@
+Heart disease
+Cancer
+Cerebro-vascular diseases
+Chronic lower respiratory diseases
+Diabetes mellitus
+Influenza and pneumonia
+Chronic liver disease and cirrhosis
+Accidents
+Suicide
+Homicide
