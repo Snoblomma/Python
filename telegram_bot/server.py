@@ -21,4 +21,4 @@ def process_update():
         update = request.get_json()
         if "message" in update:
             process_message(update)
-        return "ok!", 200
+    return "ok!", 200
